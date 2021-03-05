@@ -6,10 +6,10 @@ keywords:
         kaggle: 3
         fairness: 3
         explainable: 3
-        human: 1
         Interpretability: 2
         human-in-the-loop: 3
         machine teaching: 3
+        bias: 1
 
 # 通知の閾値
 score_threshold: 0
