@@ -4,11 +4,15 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         kaggle: 3
+        co-learning: 3
         fairness: 3
         explainable: 3
-        Interpretability: 2
         human-in-the-loop: 3
         machine teaching: 3
+        human computation: 3
+        human and machine: 2
+        Interpretability: 2
+        crowd sourcing: 2
         bias: 1
 
 # 通知の閾値
