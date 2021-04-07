@@ -5,6 +5,7 @@ subject: 'cat:cs.*'
 keywords:
         kaggle: 3
         co-learning: 3
+        co-training: 3
         fairness: 3
         explainable: 3
         human-in-the-loop: 3
